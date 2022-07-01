@@ -5,6 +5,7 @@ Creating an animated 3d room using pure css
 ## Technologies used
 * HTML
 * CSS
+* JavaScript
 
 ## Live link
 
